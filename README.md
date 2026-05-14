@@ -56,8 +56,8 @@ The dataset contains:
 - Detected low-profit categories requiring improvement
 - Improved understanding of customer purchasing behavior
 
- Dashboard Preview
-
+8. Dashboard Preview
+screenshot of preview https://github.com/VISWANADHAM-SAI/sales-analysis-dashboard/blob/main/sales%20dasboard.jpeg
  Conclusion
 The Sales Dashboard Analysis project provides meaningful insights into business performance and helps organizations monitor sales trends effectively. The dashboard enables faster decision-making using interactive visualizations and KPI tracking.
 
